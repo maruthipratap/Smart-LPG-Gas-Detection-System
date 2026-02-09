@@ -32,7 +32,7 @@ This multi-layer alert mechanism ensures **maximum safety** even if one communic
 ---
 
 ## 🗂️ Project Structure
-
+```
 Smart-LPG-Gas-Detection-System/
 ├── code/
 │   └── Smart_LPG_Gas_Detection/
@@ -51,7 +51,7 @@ Smart-LPG-Gas-Detection-System/
 │   └── Project_Report.pdf
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🔧 Hardware Components
