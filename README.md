@@ -35,20 +35,20 @@ This multi-layer alert mechanism ensures **maximum safety** even if one communic
 
 Smart-LPG-Gas-Detection-System/
 ├── code/
-│ └── Smart_LPG_Gas_Detection/
-│ ├── Smart_LPG_Gas_Detection.ino
-│ ├── config.h
-│ ├── secrets.h
-│ ├── secrets.cpp (ignored by Git)
-│ └── README.md
+│   └── Smart_LPG_Gas_Detection/
+│       ├── Smart_LPG_Gas_Detection.ino
+│       ├── config.h
+│       ├── secrets.h
+│       ├── secrets.cpp        (ignored by Git)
+│       └── README.md
 ├── circuit-diagram/
-│ └── circuit-diagram.png
+│   └── circuit-diagram.png
 ├── images/
-│ ├── lcd.png
-│ ├── lpg.png
-│ └── demo-images
+│   ├── lcd.png
+│   ├── lpg.png
+│   └── demo-images/
 ├── report/
-│ └── Project_Report.pdf
+│   └── Project_Report.pdf
 ├── .gitignore
 └── README.md
 
