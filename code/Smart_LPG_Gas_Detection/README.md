@@ -7,14 +7,14 @@ The code is modular, secure, and structured following **industry best practices*
 ---
 
 ## 📁 Folder Structure
-
+```
 Smart_LPG_Gas_Detection/
 ├── Smart_LPG_Gas_Detection.ino # Main ESP32 application
 ├── config.h # Hardware pins & constants
 ├── secrets.h # Declarations for credentials
 ├── secrets.cpp # Actual credentials (ignored by Git)
 ├── README.md # This file
-
+```
 ---
 
 ## 📌 File Description
